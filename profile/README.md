@@ -9,7 +9,7 @@
   <a href="#the-structure-%EF%B8%8F--to-update-sorry-">The structure</a> 
 
 ## What is ProjectVirgil 📋
-The project Virgil is a "small" project format by more part
+The Project Virgil is a "small" project format by more part
  
 - **The main software the** [VirgilAI](https://github.com/Retr0100/VirgilAI) 🤖
 - **The dedicated** [Android mobile app](https://github.com/Retr0100/VirgilApp) 📱
