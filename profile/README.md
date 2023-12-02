@@ -1,7 +1,7 @@
 # Project Virgil | Last docs update: 03/12/2023 (d/m/y)
 
 <p align="center">
- <img src="assets/banner-github-projectvirgil" alt="Markdownify" width ="700px" >
+ <img src="assets/../../assets/banner-github-projectvirgil.png" alt="Markdownify" width ="700px" >
  </p>
 
 <p align="center">
